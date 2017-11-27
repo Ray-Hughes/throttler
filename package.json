@@ -1,0 +1,26 @@
+{
+  "name": "@rhughes_dev/throttler",
+  "version": "0.1.0",
+  "description": "A throttler for SimpleWebRTC bandwidth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ray-Hughes/throttler.git"
+  },
+  "author": "Raymond Hughes <raymond.hughes@carepaths.com> (https://carepaths.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ray-Hughes/throttler/issues"
+  },
+  "homepage": "https://github.com/Ray-Hughes/throttler#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
